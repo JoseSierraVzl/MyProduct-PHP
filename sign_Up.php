@@ -20,7 +20,7 @@
 
         $active = 0;
         $userType = 2;
-        $secret = "6LeXzcQbAAAAAH8JTQQwswa_QTrHmIc1aer6cixG";
+        $secret = "Your Key Secrect";
 
         if(!$captcha){
             $errors[] = "Please check the Captcha";
